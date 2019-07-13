@@ -1,0 +1,19 @@
+
+
+
+.body {
+    background-color: rgb(156, 97, 24);
+}
+
+
+.text-center {
+    background-color: grey;
+}
+
+.h3 {
+    text-align: center;
+}
+
+.img-thumbnail:hover {
+border: 2px solid black;
+}
